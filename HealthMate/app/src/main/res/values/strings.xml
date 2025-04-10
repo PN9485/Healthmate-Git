@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App information -->
+    <string name="app_name">Healthmate</string>
+    <string name="app_tagline">Your personal diet and exercise assistant</string>
+    <string name="app_logo">App Logo</string>
+    
+    <!-- Login screen -->
+    <string name="login_title">Welcome to Healthmate</string>
+    <string name="login_subtitle">Please enter your information to get personalized recommendations</string>
+    <string name="name">Full Name</string>
+    <string name="age">Age (years)</string>
+    <string name="height">Height (cm)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="bmi_result">Your BMI: 0.0</string>
+    <string name="bmi_category">Category: Unknown</string>
+    <string name="proceed_to_food">Proceed to Food Suggestions</string>
+    
+    <!-- Food suggestion screen -->
+    <string name="food_suggestions">Food Suggestions</string>
+    <string name="hello_user">Hello, User</string>
+    <string name="bmi_value">Your BMI: 0.0</string>
+    <string name="search_food_title">Search for Food</string>
+    <string name="search_food_hint">Enter a food item like poha, dosa, pasta, etc.</string>
+    <string name="food_item_name">Food item name</string>
+    <string name="search">Search</string>
+    <string name="food_name_placeholder">Food Name</string>
+    <string name="recommended_amount">Recommended: 0 g</string>
+    <string name="nutritional_information">Nutritional Information</string>
+    <string name="calories">Calories: 0 kcal</string>
+    <string name="proteins">Proteins: 0 g</string>
+    <string name="carbs">Carbs: 0 g</string>
+    <string name="fats">Fats: 0 g</string>
+    <string name="fibers">Fibers: 0 g</string>
+    <string name="go_to_exercise">Go to Exercise Suggestions</string>
+    
+    <!-- Exercise suggestion screen -->
+    <string name="exercise_suggestions">Exercise Suggestions</string>
+    <string name="select_body_part_title">Select Body Part</string>
+    <string name="select_body_part_hint">Choose the body part you want to train or reduce fat from</string>
+    <string name="go_to_food">Go to Food Suggestions</string>
+    <string name="tap_for_instructions">Tap to view detailed instructions</string>
+</resources>

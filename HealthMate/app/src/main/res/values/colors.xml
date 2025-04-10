@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary theme colors -->
+    <color name="colorPrimary">#4CAF50</color>        <!-- Green for health -->
+    <color name="colorPrimaryDark">#388E3C</color>    <!-- Darker green for status bar -->
+    <color name="colorAccent">#FF9800</color>         <!-- Orange for energy/accent -->
+    <color name="colorSecondary">#2196F3</color>      <!-- Blue for clean interface -->
+    
+    <!-- Text colors -->
+    <color name="colorTextPrimary">#212121</color>    <!-- Primary text color (almost black) -->
+    <color name="colorTextSecondary">#757575</color>  <!-- Secondary text color (dark gray) -->
+    
+    <!-- Background colors -->
+    <color name="colorBackground">#F5F5F5</color>     <!-- Background color (light gray) -->
+    <color name="colorCardBackground">#FFFFFF</color> <!-- Card background (white) -->
+    
+    <!-- Other UI colors -->
+    <color name="colorDivider">#BDBDBD</color>        <!-- Divider color (medium gray) -->
+    <color name="colorError">#F44336</color>          <!-- Error color (red) -->
+    <color name="colorSuccess">#4CAF50</color>        <!-- Success color (green) -->
+    <color name="colorWarning">#FFC107</color>        <!-- Warning color (amber) -->
+</resources>
